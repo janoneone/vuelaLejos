@@ -6,8 +6,15 @@ body {
   }
   .footer {
     margin-top: auto;
+    background-color: #1b0088 !important;
+    color: #ffffff !important;
   }
 
+  
 .accordion-button{
     font-weight: bold;
+}
+.menu{
+  background-color: #1b0088 !important;
+  
 }
